@@ -15,3 +15,7 @@
     </root>  
   
 </log4j:configuration>\
+
+#File Appender
+#Console Appender
+#JDBC Appender
