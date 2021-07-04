@@ -19,3 +19,5 @@
 #File Appender
 #Console Appender
 #JDBC Appender
+
+#Pattern Layout
